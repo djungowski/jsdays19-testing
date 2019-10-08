@@ -1,4 +1,4 @@
-# Aufgabe 4b - Async
+# Aufgabe 4b - Clock/Async
 
 Schreibe die Tests für die Funktion `async()`, so um, dass `jasmine.clock().install()` wird. Vergiss nicht, nach jedem Testcase die Umgebung wieder aufzuräumen!
 
