@@ -1,4 +1,4 @@
-describe('Calc', () => {
+xdescribe('Calc', () => {
   let calc;
   beforeEach(() => {
     // Arrange
